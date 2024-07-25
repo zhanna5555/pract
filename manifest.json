@@ -1,0 +1,15 @@
+{
+  "name": "PC Center",
+  "description": "PC repair company",
+  "start_url": "/",
+  "lang": "ru",
+  "theme_color": "#9BBD8C",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon-512-512.png",
+      "sizes": "512x512",
+      "type": "png"
+    }
+  ]
+}
